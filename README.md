@@ -1,1 +1,1 @@
-# aibridge-projekt
+# aibridge.projekt
